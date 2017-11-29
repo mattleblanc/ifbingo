@@ -26,6 +26,7 @@ var JSONBingo = {"squares": [
         {"square": "continuous integration"},
         {"square": "New DAODfix"},
         {"square": "MET tails"},
+        {"square": "R=0.1 subjets"},
         {"square": "\"athena's not so bad\""},
         {"square": "mc16e"},
         {"square": "doctored muons"},

@@ -1,44 +1,44 @@
 
-var headerText = "Bingo";
+var headerText = "bingo @ 120 ifb";
 
 var footerText = "<a href='https://github.com/jeffehobbs/HTML5-bingo/' target='_blank'>Code available on github</a>";
 
-var winText = "Winner";
+var winText = "Nobel prize!";
 
 var clickSnd = new Audio("audio/click.mp3");
 
 var winSnd = new Audio("audio/win.mp3");
 
 var JSONBingo = {"squares": [
-        {"square": "one"},
-        {"square": "two"},
-        {"square": "three"},
-        {"square": "four"},
-        {"square": "five"},
-        {"square": "six"},
-        {"square": "seven"},
-        {"square": "eight"},
-        {"square": "nine"},
-        {"square": "ten"},
-        {"square": "eleven"},
-        {"square": "twelve"},
-        {"square": "thirteen"},
-        {"square": "fourteen"},
-        {"square": "fifteen"},
-        {"square": "sixteen"},
-        {"square": "seventeen"},
-        {"square": "eighteen"},
-        {"square": "nineteen"},
-        {"square": "twenty"},
-        {"square": "twenty one"},
-        {"square": "twenty two"},
-        {"square": "twenty three"},
-        {"square": "twenty four"},    	
-        {"square": "twenty five"},    	
-        {"square": "twenty six"},    	
-        {"square": "twenty seven"}, 
-        {"square": "twenty eight"},    	
-        {"square": "twenty nine"},    	
-        {"square": "thirty"}    	
+        {"square": "new physics"},
+        {"square": "deep learning"},
+        {"square": "hyper-parameters"},
+        {"square": "Delayed prerec."},
+        {"square": "noise bursts"},
+        {"square": "weird limit"},
+        {"square": "Reference to 7 TeV"},
+        {"square": "Release 22"},
+        {"square": "PUPPI"},
+        {"square": "LFV is real"},
+        {"square": "&mu; > 80"},
+        {"square": "hidden layers"},
+        {"square": "Run 3"},
+        {"square": "ICHEP 2018"},
+        {"square": "\"why not jet reclustering?\""},
+        {"square": "continuous integration"},
+        {"square": "New DAODfix"},
+        {"square": "MET tails"},
+        {"square": "\"athena's not so bad\""},
+        {"square": "mc16e"},
+        {"square": "doctored muon"},
+        {"square": "LEP"},
+        {"square": "new tau BDT"},
+        {"square": "HGTD"},    	
+        {"square": "mis-modelling"},    	
+        {"square": "ATLAS as a fixed-target"},    	
+        {"square": "vidyo can't hear"}, 
+        {"square": "Moriond 2018"},    	
+        {"square": "low-&mu; data shown"},    	
+        {"square": "heavy ions"}    	
     ]
 };

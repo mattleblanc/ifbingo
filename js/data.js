@@ -6,19 +6,20 @@ var footerText = "<a href='https://github.com/jeffehobbs/HTML5-bingo/' target='_
 var winText = "Nobel prize!";
 
 var JSONBingo = {"squares": [
-        {"square": "new physics"},
-        {"square": "same old physics"},
         {"square": "deep learning"},
         {"square": "\"hyper-parameters\""},
         {"square": "Delayed prerec."},
         {"square": "noise bursts"},
-        {"square": "weird limit"},
+        {"square": "limit plotting bug"},
         {"square": "Reference to 7 TeV results"},
         {"square": "Release 22"},
         {"square": "Diphoton excess"},
         {"square": "PUPPI"},
         {"square": "LFV is real"},
+        {"square": "Chair reschedules coffee"},
+        {"square": "ttbar mis-modelling"},
         {"square": "twiki debate"},
+        {"square": "forward folding"},
         {"square": "&mu; > 60"},
         {"square": "\"hidden layers\""},
         {"square": "Run 3"},
@@ -26,6 +27,7 @@ var JSONBingo = {"squares": [
         {"square": "\"why not jet reclustering?\""},
         {"square": "continuous integration"},
         {"square": "TADA bump"},
+        {"square": "Too many sig figs"},
         {"square": "New DAODfix"},
         {"square": "XeXe"},
         {"square": "MET tails"},
@@ -37,11 +39,9 @@ var JSONBingo = {"squares": [
         {"square": "LEP"},
         {"square": "new tau BDT"},
         {"square": "H > &mu;&mu;"},    	
-        {"square": "mis-modelling"},    	
-        {"square": "new meeting series"},    	
         {"square": "vidyo can't hear"}, 
-        {"square": "Moriond 2018"},    	
-        {"square": "low-&mu; data shown"},    	
-        {"square": "heavy ions"}    	
+        {"square": "Moriond 2018"},
+        {"square": "low-&mu; data shown"}, 	
+        {"square": "heavy ions"}
     ]
 };

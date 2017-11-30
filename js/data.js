@@ -15,6 +15,7 @@ var JSONBingo = {"squares": [
         {"square": "weird limit"},
         {"square": "Reference to 7 TeV results"},
         {"square": "Release 22"},
+        {"square": "Diphoton excess"},
         {"square": "PUPPI"},
         {"square": "LFV is real"},
         {"square": "twiki debate"},

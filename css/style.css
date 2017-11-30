@@ -109,8 +109,8 @@ body {
 }
 
 .win {
-	color: #ffffff !important;
-   	background-color: red;
+	color: #ff0000 !important;
+   	/*background-color: red;*/
 }
 
 @media only screen 

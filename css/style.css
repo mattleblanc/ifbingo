@@ -11,8 +11,9 @@
 }
 
 body {
-	background-color: #000000;
-	background-image: url('../img/background.png');
+	background-color: #4081BB;
+	background-image: url('../img/background_edit.png');
+ 	background-repeat: no-repeat;
 	font-family: "Helvetica Neue", Arial, sans-serif;
 	text-rendering: optimizeLegibility;
 }

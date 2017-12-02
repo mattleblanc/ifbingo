@@ -33,7 +33,7 @@ var JSONBingo = {"squares": [
         {"square": "\"why not jet reclustering?\""},
         {"square": "TLA"},
         {"square": "continuous integration"},
-        {"square": "Dan's owl appears"},
+        {"square": "wide-eyed owl painting"},
         {"square": "TADA bump"},
         {"square": "too many sig figs"},
         {"square": "RD53"},

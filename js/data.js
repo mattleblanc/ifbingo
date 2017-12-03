@@ -49,6 +49,7 @@ var JSONBingo = {"squares": [
         {"square": "doctored muons"},
         {"square": "LEP"},
         {"square": "HEPData"},
+        {"square": "Someone in front playing ifbingo"},
         {"square": "new tau BDT"},
         {"square": "git sub-modules"},
         {"square": "H > &mu;&mu;"},
